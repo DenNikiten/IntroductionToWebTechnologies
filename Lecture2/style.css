@@ -1,0 +1,31 @@
+p,ul {
+		color: red;
+		width: 500px;
+		border: 1px solid black;		
+		}
+		
+html {
+	font-size: 15px; 
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFEFD5;
+	}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #FFE4B5;
+	padding: 0 20px 20px 20px;
+	border: 2px solid white;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	text-shadow: 2px 2px 1px white;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
