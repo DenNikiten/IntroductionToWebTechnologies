@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(106, 122, 17);
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	text-shadow: 2px 2px 1px white;
+	text-align: center;
+}
+
+h2 {
+    color: rgb(128, 0, 64);
+}
+
+a {
+    color: rgb(100, 216, 237);
+}
+
+.parent {
+    width: 500px;
+    margin: 0 auto;
+  }
+
+img {
+    border: 5px solid #FFEFD5;
+    width: 490px;
+  }
+
+.bigText {
+    font-size: 1.5rem;
+}
+
+html {
+    font-size: 17px;;
+    font-family: 'Agdasima', sans-serif;    
+    background-color: #FFEFD5;
+}
+
+ul {
+    list-style-type: square;
+}

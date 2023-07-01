@@ -1,0 +1,14 @@
+lorem - текст какой-то вставляет
+loremru5 - 5 русских  слов выводит
+<p>loremru5</p>  - lorem5ru + ENTER
+shift+alt+F - отступы возвращает в правильное положение
+<br> - перенос строки
+<a href="https://ya.ru" target="_blank">Спроси у Яндекса</a> - 
+target - open in new page
+<hr> - полоса внизу 
+ul>li*3  -- 3 li - не нумерованный список
+ol>li*3 -- нумерованный список
+font-size: 1.5rem - шрифт на 50% больше
+list-style-type: square; - маркированные списки квадратики
+margin-left: 50px; - отступ слева на 50px
+border: 5px solid #FFEFD5; - рамка
