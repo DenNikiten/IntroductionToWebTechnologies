@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<user>
+    <name>Иван</name>
+    <surname>Иванов</surname>
+    <patronymic>Иванович</patronymic>
+    <age>30</age>
+    <phone>Москва</phone>
+    <birthplace>+7 926 766 48 48</birthplace>
+</user>
+
+{
+  "name": "Иван",
+  "surname": "Иванов",
+  "patronymic": "Иванович",
+  "age": 30,
+  "birthplace": "Москва",
+  "phone": "+7 926 766 48 48"
+}
+
+
+https://jsonformatter.org/xml-viewer/80ae67
+https://jsonformatter.org/json-parser/360c5d
+
+JSON:
+[
+  {
+    "title": "Яблоки",
+    "weight": 1000,
+    "group": "Фрукты",
+    "price": 159,
+    "warehouse": 1
+  },
+  {
+    "title": "Яблоки",
+    "weight": 1000,
+    "group": "Фрукты",
+    "price": "+7922 220",
+    "warehouse": 1
+  }
+]
+
+JSON:
+[
+  {
+    "name": "Иван",
+    "surname": "Иванов",
+    "age": 33,
+    "hobbies": ["Рыбалка", "охота", "футбол"],
+    "married": true,
+    "children": ["Мария", "Николай"]
+  },
+  {
+    "name": "Ольга",
+    "surname": "Фролова",
+    "age": 21,
+    "hobbies": ["Путешествия", "вышивание"],
+    "married": false,
+    "children": []
+  }
+]
